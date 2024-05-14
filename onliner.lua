@@ -10,7 +10,7 @@ local oldW, oldH = gpu.getResolution()
 local oldBg, oldFg = gpu.getBackground(), gpu.getForeground()
 local offsetY = 2
 
-local PLAYERS = {"kaka88", "AsketLife", "DoomZone", "Resstiven_", "stepan741802", "TimeDust_", "maximosadchiy", "Devannarro", "Maksemelean", "Vodochka56"}
+local PLAYERS = {"kaka888", "ECS", "Hikooshi"}
 local DELAY = 16
 local W, H = 31, 25
 local BG_COLOR = 0x000080 --0x330033
